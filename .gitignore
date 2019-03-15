@@ -1,0 +1,4 @@
+node_modules/
+templates_safe/
+public_safe/
+src_safe/
